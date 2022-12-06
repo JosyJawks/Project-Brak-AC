@@ -64,12 +64,6 @@
     padding-bottom:100px;   /* Hauteur du pied de page */
  }
 
-#foot {
-    position:absolute;
-    bottom:0;
-    width:100%;
-    height:100px;
-}
 
 
 tr {

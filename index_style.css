@@ -1,6 +1,6 @@
 /*CSS GENERAL*/
 body {
-    background: no-repeat url("background_index.jpg");
+    background: no-repeat fixed url("background_index.jpg");
 }
 
 

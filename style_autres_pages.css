@@ -1,0 +1,12 @@
+.presentation{
+    display:flex;
+    justify-content: space-between;
+    color : white;
+}
+
+#main {
+    min-height:100%;
+    position:relative;
+    padding-bottom:100px;   /* Hauteur du pied de page */
+ }
+

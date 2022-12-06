@@ -78,3 +78,11 @@ tr {
     border: 1px solid rgb(255, 255, 255);
     color : rgb(255, 255, 255);
 }
+
+
+/*Modifs de dada*/
+#tableau {
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

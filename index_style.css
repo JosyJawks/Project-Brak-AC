@@ -1,3 +1,9 @@
+/*CSS GENERAL*/
+body {
+    background: url("background_index.jpg");
+}
+
+
 /*CSS HEADER*/
 header {
     font-family: "Gill Sans", sans-serif;
@@ -38,4 +44,4 @@ header li {
         text-decoration: none;
         color: black;
     }
-
+/*CSS other*/

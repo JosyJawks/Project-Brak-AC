@@ -46,6 +46,9 @@
 
 #div_tab{
     align-self: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: inline-block;
     
 }
 

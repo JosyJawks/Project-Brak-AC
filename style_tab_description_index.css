@@ -34,12 +34,10 @@
 
 #img_et_description{
     display: flex;
-    margin-left: 7%;
-    margin-right: 7%;
-    margin-top: 5%;
-    margin-bottom: 5%;
-    width: 100%;
-    height: 300px;
+    margin : auto;
+    width: 85%;
+    margin-bottom : 3%;
+    margin-top: 3%;
     border: 1px  solid rgb(255, 255, 255);
     align-items: center;
     justify-content: space-between;

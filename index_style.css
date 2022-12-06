@@ -1,0 +1,41 @@
+/*CSS HEADER*/
+header {
+    font-family: "Gill Sans", sans-serif;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: large;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+.logo {
+    padding-right: 40%;
+    text-align: center;
+}
+
+header img {
+    width: 100px;
+}
+header ul {
+	padding-top: 25%;
+}
+
+header li {
+    list-style-type: none;
+    display: inline;
+}
+
+    header a {
+        text-decoration: none;
+        color: black;
+    }
+    header a:visited {
+        text-decoration: none;
+        color: black;
+    }
+

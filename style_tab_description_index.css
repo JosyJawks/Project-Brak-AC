@@ -1,0 +1,69 @@
+
+
+ 
+#tableau {
+    margin-top: 5%;
+    width: max-content;
+    border: 1px solid black;
+    height: 300px;
+
+}
+
+.titre {
+    font-weight: bold;
+    font-size: 1em;
+    text-align: center;
+    border: 0.5px solid black;
+    font-family: sans-serif;
+}
+
+.ligne {
+    text-align: center;
+    border: 0.5px solid black;
+    font-weight: 100;
+    font-family: sans-serif;
+}
+
+
+.colonne {
+    text-align: center;
+    margin: 5px;
+
+}
+
+
+#img_et_description{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 100%;
+    height: 300px;
+    border: 1px  solid black;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#div_tab{
+    align-self: center;
+    
+}
+
+#body {
+    margin:0;
+    padding:0;
+    height:100%;
+ }
+
+ #main {
+    min-height:100%;
+    position:relative;
+    padding-bottom:100px;   /* Hauteur du pied de page */
+ }
+
+#foot {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:100px;
+}

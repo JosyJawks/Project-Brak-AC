@@ -3,3 +3,18 @@
     justify-content: space-between;
     color : white;
 }
+
+.citation{
+    border-right : 1px solid white;
+    margin-right: 1%;
+    margin-left: 3%
+}
+
+.stats{
+    margin-left: 3%;
+}
+
+.column{
+    float: left;
+    width: 50%;
+}

@@ -1,20 +1,23 @@
 .Joueurs{
     display: flex;
     justify-content: space-between;
+    color : white;
 }
 
 .Kasaolo{
-    border-right: 1px solid black;
-
+    border-right: 1px solid white;
+    color : white;
 }
 
 .Salade{
-    border-right: 1px solid black;
+    border-right: 1px solid white;
     margin-left : 50px;
+    color : white;
 }
 
 .JosyJawks{
     margin-left: 50px;
+    color : white;
 }
 
 .column{

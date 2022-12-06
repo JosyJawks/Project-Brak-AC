@@ -1,6 +1,7 @@
 /*CSS GENERAL*/
 body {
     background: url("background_index.jpg");
+    background-size: cover;
 }
 
 

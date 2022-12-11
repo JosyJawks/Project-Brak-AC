@@ -4,9 +4,17 @@
     color : white;
 }
 
-#main {
-    min-height:100%;
-    position:relative;
-    padding-bottom:100px;   /* Hauteur du pied de page */
- }
+.citation{
+    border-right : 1px solid white;
+    margin-right: 1%;
+    margin-left: 3%
+}
 
+.stats{
+    margin-left: 3%;
+}
+
+.column{
+    float: left;
+    width: 50%;
+}

@@ -16,13 +16,9 @@ h1 {
     color:rgb(255, 255, 255);
 }
 
-.container {
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-start;
-}
+
 .logo {
-    padding-right: 35%;
+    margin: auto;
     text-align: center;
 }
 
@@ -31,10 +27,11 @@ h1 {
 }
 
 header img {
-    width: 100px;
+    width: 200px;
 }
-header ul {
-	padding-top: 25%;
+
+header nav {
+    align-self: flex-end;
 }
 
 header li {

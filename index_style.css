@@ -72,6 +72,7 @@ header li {
     display: flex;
     justify-content: space-between;
     margin-top: 5%;
+    margin-bottom: 5%;
 }
 #box1{
     margin-left: 12%;
@@ -80,7 +81,8 @@ header li {
     margin-right:12%
 }
 
-#box1, #box2, #box3 {
+#box1, #box2, #box3{
+    justify-content:center;
     border-style: solid;
     border-width: 1px;
     width: 100px;
@@ -93,6 +95,7 @@ header li {
   
   #box1:hover, #box2:hover, #box3:hover{
     background-color: #170c51;
+    justify-content: center;
     width: 200px;
     height: 200px;
   }

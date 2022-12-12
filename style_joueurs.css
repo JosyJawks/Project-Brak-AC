@@ -17,13 +17,12 @@ main {
 
 .Salade{
     border-right: 1px solid white;
-    margin-left : 12%;
     color : white;
 }
 
 .JosyJawks{
-    margin-left: 12%;
     color : white;
+    margin-right: 12%;
 }
 
 .column{

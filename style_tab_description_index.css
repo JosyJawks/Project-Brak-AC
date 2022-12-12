@@ -66,13 +66,8 @@
         text-decoration: underline;
     }
 
-#div_tab{
-    
-    margin-left: 5%;
-    margin-right: 5%;
-    display: inline-block;
-    padding: auto;
-    
+.colonne:nth-child(even){
+    background-color: rgb(68, 68, 68);
 }
 
 #body {

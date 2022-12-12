@@ -67,3 +67,38 @@ header li {
     color : white;
 }
 /*CSS other*/
+
+#box{
+    display: flex;
+    justify-content: space-between;
+}
+
+#box1, #box2, #box3 {
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: #0000ff;
+    transition: width 2s, height 2s, background-color 2s, transform 2s;
+    transition-property: opacity, left, top, height;
+    transition-duration: 3s, 5s;
+  }
+  
+  #box1:hover, #box2:hover, #box3:hover {
+    background-color: #ffcccc;
+    width: 200px;
+    height: 200px;
+    rotate: 180deg;
+  }
+
+  #delay {
+    font-size: 14px;
+    transition-property: font-size;
+    transition-duration: 4s;
+    transition-delay: 2s;
+  }
+  
+  #delay:hover {
+    font-size: 36px;
+  }

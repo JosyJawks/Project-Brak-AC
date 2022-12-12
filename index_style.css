@@ -8,11 +8,14 @@ body {
 /*CSS HEADER*/
 header {
     font-family: "Gill Sans", sans-serif;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,71,9,1) 84%, rgba(60,89,94,1) 100%);
+    color: white;
 }
 
 h1 {
     font-weight: normal;
-    font-size: large;
+    font-size: 80px;
     color:rgb(255, 255, 255);
 }
 

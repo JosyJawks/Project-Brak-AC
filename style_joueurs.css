@@ -10,13 +10,13 @@ main {
 }
 
 .Kasaolo{
-    border-right: 1px solid white;
     color : white;
     margin-left: 12%;
     
 }
 
 .Salade{
+    border-left : 1px solid white;
     border-right: 1px solid white;
     color : white;
 }

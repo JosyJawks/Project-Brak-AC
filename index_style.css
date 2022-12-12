@@ -67,3 +67,43 @@ header li {
 }
 
 /*CSS other*/
+
+#box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+#box1{
+    margin-left: 12%;
+}
+#box3{
+    margin-right:12%
+}
+
+#box1, #box2, #box3 {
+    border-style: solid;
+    border-width: 1px;
+    width: 100px;
+    height: 100px;
+    background-color: #1b1c1e;
+    transition: width 2s, height 2s, background-color 2s, transform 2s;
+    transition-property: opacity, left, top, height;
+    transition-duration: 3s, 3s;
+  }
+  
+  #box1:hover, #box2:hover, #box3:hover{
+    background-color: #170c51;
+    width: 200px;
+    height: 200px;
+  }
+
+  #delay {
+    font-size: 14px;
+    transition-property: font-size;
+    transition-duration: 4s;
+    transition-delay: 2s;
+  }
+  
+  #delay:hover {
+    font-size: 36px;
+  }

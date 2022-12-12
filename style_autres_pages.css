@@ -68,4 +68,56 @@ section {
     width : 27%;
  }
 
+ .Main2{
+    display: flex;
+    justify-content: space-between;
+    color : white;
+ }
+
+ .Image2{
+    border-right: 1px solid white;
+    color : white;  
+    width : 8%;
+   
+ }
+
+ .Descr2{
+    border-right: 1px solid white;
+    color : white;
+    width : 65%;
+    margin-left : 2%;
+
+ }
+
+ .Stats2{
+    color : white;
+    width : 27%;
+ }
+
+ .Main3{
+    display: flex;
+    justify-content: space-between;
+    color : white;
+ }
+
+ .Image3{
+    border-right: 1px solid white;
+    color : white;  
+    width : 8%;
+   
+ }
+
+ .Descr3{
+    border-right: 1px solid white;
+    color : white;
+    width : 65%;
+    margin-left : 2%;
+
+ }
+
+ .Stats3{
+    color : white;
+    width : 27%;
+ }
+
  

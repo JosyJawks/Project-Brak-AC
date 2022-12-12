@@ -65,11 +65,13 @@ header li {
     height:100px;
     color : white;
 }
+
 /*CSS other*/
 
 #box{
     display: flex;
     justify-content: space-between;
+    margin-top: 5%;
 }
 #box1{
     margin-left: 12%;
@@ -93,15 +95,4 @@ header li {
     background-color: #170c51;
     width: 200px;
     height: 200px;
-  }
-
-  #delay {
-    font-size: 14px;
-    transition-property: font-size;
-    transition-duration: 4s;
-    transition-delay: 2s;
-  }
-  
-  #delay:hover {
-    font-size: 36px;
   }

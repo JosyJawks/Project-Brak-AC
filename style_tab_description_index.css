@@ -40,6 +40,7 @@
 #img_et_description{
     display: flex;
     margin : auto;
+    padding: 20px;
     width: 85%;
     margin-bottom : 3%;
     margin-top: 3%;
@@ -47,6 +48,23 @@
     align-items: center;
     justify-content: space-between;
 }
+
+    #img_et_description h3 {
+        font-weight:50;
+        font-size: 25px;
+        font-style: italic;
+    }
+    #img_et_description a {
+        text-decoration: none;
+        color: white;
+    }
+    #img_et_description a:visited {
+        text-decoration: none;
+        color: white;
+    }
+    #img_et_description:first-child a {
+        text-decoration: underline;
+    }
 
 #div_tab{
     

@@ -81,7 +81,7 @@ header li {
     margin-right:12%
 }
 
-#box:nth-child(n){
+#box1, #box2, #box3{
     justify-content:center;
     border-style: solid;
     border-width: 1px;

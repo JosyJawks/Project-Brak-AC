@@ -34,5 +34,6 @@ section {
 #main {
     min-height:100%;
     position:relative;
-    padding-bottom:100px;   /* Hauteur du pied de page */
+    padding-bottom:100px;
+    overflow-x:hidden;   /* Hauteur du pied de page */
  }

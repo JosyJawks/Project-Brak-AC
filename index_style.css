@@ -2,6 +2,8 @@
 body {
     background: no-repeat url("background_index.jpg");
     background-size: cover;
+    overflow-x:hidden;
+    
 }
 
 
@@ -11,6 +13,7 @@ header {
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,71,9,1) 84%, rgba(60,89,94,1) 100%);
     color: white;
+    
 }
 
 h1 {
@@ -35,7 +38,8 @@ header img {
 
 header nav {
     width: 100%;
-    position: absolute;
+    position: block;
+    text-align: right;
     right: 0px;
 }
 
@@ -43,6 +47,9 @@ header li {
     list-style-type: none;
     display: inline;
 }
+    header ul {
+        margin-right: 10px;    
+    }
 
     header a {
         text-decoration: none;

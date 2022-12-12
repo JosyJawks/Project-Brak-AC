@@ -1,3 +1,7 @@
+main {
+    color : white;
+}
+
 .Joueurs{
     display: flex;
     justify-content: space-between;
@@ -26,3 +30,5 @@
     float: left;
     width: 33.33%
 }
+
+

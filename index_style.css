@@ -3,6 +3,8 @@ body {
     background: no-repeat url("background_index.jpg");
     background-size: cover;
     font-family: "Gill Sans", sans-serif;
+    overflow-x:hidden;
+    
 }
 
 

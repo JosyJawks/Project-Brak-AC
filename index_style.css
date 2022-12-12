@@ -36,7 +36,8 @@ header img {
 
 header nav {
     width: 100%;
-    position: absolute;
+    position: block;
+    text-align: right;
     right: 0px;
 }
 

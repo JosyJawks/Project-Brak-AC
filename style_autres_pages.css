@@ -36,3 +36,24 @@ section {
     position:relative;
     padding-bottom:100px;   /* Hauteur du pied de page */
  }
+
+ .Main1{
+    display: flex;
+    justify-content: space-between;
+    color : white;
+ }
+
+ .Image1{
+    border-right: 1px solid white;
+    color : white;  
+   
+ }
+
+ .Descr1{
+    border-right: 1px solid white;
+    color : white;
+    margin-left : 1%;
+    margin-right : 90%;
+ }
+
+ 

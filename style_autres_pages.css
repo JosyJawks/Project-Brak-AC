@@ -1,4 +1,6 @@
-
+body {
+    margin: 0;
+}
 
 .presentation{
     display:flex;
@@ -49,12 +51,21 @@ section {
  .Image1{
     border-right: 1px solid white;
     color : white;  
+    width : 8%;
    
  }
 
  .Descr1{
     border-right: 1px solid white;
     color : white;
-    margin-left : 1%;
-    margin-right : 90%;
+    width : 65%;
+    margin-left : 2%;
+
  }
+
+ .Stats1{
+    color : white;
+    width : 27%;
+ }
+
+ 

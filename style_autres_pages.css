@@ -18,3 +18,9 @@
     float: left;
     width: 50%;
 }
+
+section {
+    display: flex;
+    justify-content: space-between;
+    color : white;
+}

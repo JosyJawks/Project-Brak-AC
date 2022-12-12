@@ -72,23 +72,22 @@ header li {
     justify-content: space-between;
 }
 
-#box1, #box2, #box3 {
+#box {
     border-style: solid;
     border-width: 1px;
     display: block;
     width: 100px;
     height: 100px;
-    background-color: #0000ff;
+    background-color: #1b1c1e;
     transition: width 2s, height 2s, background-color 2s, transform 2s;
     transition-property: opacity, left, top, height;
-    transition-duration: 3s, 5s;
+    transition-duration: 3s, 3s;
   }
   
-  #box1:hover, #box2:hover, #box3:hover {
-    background-color: #ffcccc;
+  #box:hover{
+    background-color: #170c51;
     width: 200px;
     height: 200px;
-    rotate: 180deg;
   }
 
   #delay {

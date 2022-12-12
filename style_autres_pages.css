@@ -6,6 +6,8 @@ body {
     display:flex;
     justify-content: space-between;
     color : white;
+    margin-bottom : 2%;
+    margin-top: 2%;
 }
 
 .citation{
@@ -46,6 +48,8 @@ section {
     display: flex;
     justify-content: space-between;
     color : white;
+    margin-top : 2%;
+    margin-bottom : 2%;
  }
 
  .Image1{
@@ -72,6 +76,8 @@ section {
     display: flex;
     justify-content: space-between;
     color : white;
+    margin-top : 2%;
+    margin-bottom : 2%;
  }
 
  .Image2{
@@ -98,6 +104,8 @@ section {
     display: flex;
     justify-content: space-between;
     color : white;
+    margin-top : 2%;
+    margin-bottom : 2%;
  }
 
  .Image3{

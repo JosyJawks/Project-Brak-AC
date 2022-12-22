@@ -95,8 +95,8 @@ header li {
     justify-content: center;
     border-style: solid;
     border-width: 1px;
-    width: 200px;
-    height: 100px;
+    width: 600px;
+    height: 150px;
     background-color: #1b1c1e;
     transition: width 2s, height 2s, background-color 2s, transform 2s;
     transition-property: opacity, left, top, height;
@@ -106,6 +106,6 @@ header li {
   #box1:hover, #box2:hover, #box3:hover{
     background-color: #170c51;
     justify-content: center;
-    width: 200px;
+    width: 600px;
     height: 200px;
   }

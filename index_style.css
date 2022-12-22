@@ -109,3 +109,14 @@ header li {
     width: 600px;
     height: 200px;
   }
+
+ 
+#box1:hover p, #box2:hover p, #box3:hover p{
+   opacity : 100%;
+   transition-duration: 3s;
+  }
+
+
+  #box1 p, #box2 p, #box3 p{
+        opacity: 0%;
+  }

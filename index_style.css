@@ -58,10 +58,11 @@ header li {
         font-weight: 100;
         color: rgb(194, 194, 194);
     }
+    /*
     header a:visited {
         text-decoration: none;
-        color: rgb(255, 255, 255);
-    }
+        color: rgb(161, 158, 158);
+    }*/
 
 #foot {
     position:absolute;

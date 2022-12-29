@@ -119,8 +119,7 @@ header li {
    opacity : 100%;
    transition-duration: 3s;
   }
-
-
+  
   #box1 p, #box2 p, #box3 p{
         opacity: 0%;
   }
@@ -136,14 +135,16 @@ header li {
 
 
 
-
-
-
 #Joueurs{
     display: flex;
     justify-content: space-between;
     color : white;
     margin-bottom:5%;
+}
+
+.comumn {
+    display: flex;
+    justify-content: center;
 }
 
 #Kasaolo{
@@ -155,7 +156,6 @@ header li {
     border-left : 1px solid white;
     border-right: 1px solid white;
     color : white;
-
 }
 
 #JosyJawks{

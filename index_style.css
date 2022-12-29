@@ -112,7 +112,7 @@ header li {
   }
   
   #box1:hover, #box2:hover, #box3:hover{
-    background-color: #b49418;
+    background-color: #a47e14e1;
     justify-content: center;
     width: 600px;
     height: 450px;

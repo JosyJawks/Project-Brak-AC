@@ -105,12 +105,17 @@ header li {
     transition-property: opacity, left, top, height;
     transition-duration: 3s, 3s;
   }
+
+  #box1 h2, #box1 p, #box2 h2, #box2 p, #box3 h2, #box3 p 
+  {
+    margin: 5%
+  }
   
   #box1:hover, #box2:hover, #box3:hover{
-    background-color: #170c51;
+    background-color: #a47e14e1;
     justify-content: center;
     width: 600px;
-    height: 400px;
+    height: 450px;
   }
 
  

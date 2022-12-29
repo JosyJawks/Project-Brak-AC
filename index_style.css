@@ -104,7 +104,7 @@ header li {
 
   #box1 h2, #box1 p, #box2 h2, #box2 p, #box3 h2, #box3 p 
   {
-    margin: 5%
+    margin: 5%;
   }
   
   #box1:hover, #box2:hover, #box3:hover{
